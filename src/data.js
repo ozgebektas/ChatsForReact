@@ -1,0 +1,9 @@
+Object.defineProperty(exports,"__esModule",{value:true});
+exports.salesData=[
+  {month:'Jan',sales:35},{month:'Feb',sales:28},
+  {month:'Mar',sales:35},{month:'Apr',sales:28},
+  {month:'May',sales:35},{month:'Jun',sales:28},
+  {month:'Jul',sales:35},{month:'Aug',sales:28},
+  {month:'Sep',sales:35},{month:'Oct',sales:28},
+  {month:'Nov',sales:35},{month:'Dec',sales:28},
+];
